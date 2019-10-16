@@ -215,9 +215,9 @@ namespace assembler
 		//??? ---   = 0x1C,
 
 		_BIT_ZPG = 0x24,
-		_BIT_ABS = 0x2D,
+		_BIT_ABS = 0x2C,
 		//??? ---   = 0x34,
-		//??? ---   = 0x3D,
+		//??? ---   = 0x3C,
 
 		//??? ---   = 0x44,
 		_JMP_ABS = 0x4C,
