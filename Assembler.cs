@@ -252,9 +252,9 @@ namespace DW1NsfInjector
             //??? ---   = 0x1C,
 
             BIT_ZPG = 0x24,
-            BIT_ABS = 0x2D,
+            BIT_ABS = 0x2C,
             //??? ---   = 0x34,
-            //??? ---   = 0x3D,
+            //??? ---   = 0x3C,
 
             //??? ---   = 0x44,
             JMP_ABS = 0x4C,
